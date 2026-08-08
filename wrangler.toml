@@ -1,0 +1,6 @@
+name = "sol-radar-bot"
+main = "worker.js"
+compatibility_date = "2026-08-08"
+
+[triggers]
+crons = ["*/5 * * * *"]
