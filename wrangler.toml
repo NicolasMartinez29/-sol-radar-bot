@@ -7,4 +7,4 @@ binding = "RADAR_STATE"
 id = "3d87f60036e240e89b0ea6fb3c546c97"
 
 [triggers]
-crons = ["*/5 * * * *"]
+crons = ["* * * * *"]
