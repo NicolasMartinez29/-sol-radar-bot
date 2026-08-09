@@ -1,1 +1,1 @@
-# -sol-radar-bot
+# -NQ-radar-bot
