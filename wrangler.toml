@@ -1,6 +1,10 @@
-name = "sol-radar-bot"
+name = "sol-radar-bot1"
 main = "worker.js"
-compatibility_date = "2026-08-08"
+compatibility_date = "2026-08-09"
+
+[[kv_namespaces]]
+binding = "RADAR_STATE"
+id = "3d87f60036e240e89b0ea6fb3c546c97"
 
 [triggers]
 crons = ["*/5 * * * *"]
